@@ -18,15 +18,6 @@ NAMESTITEV
 2. NAMESTITE POTREBNE KNJIŽNICE:
    pip install -r requirements.txt
 
-3. PRENESITE MODEL:
-   Zaradi omejitve velikosti datotek na ARNES platofrmi,
-   naučen model (pm10_gru_model.keras) ni vključen v zip arhiv.
-   
-   Model je dostopen na:
-   https://github.com/Anns2209/RIRSU_projekt/tree/main
-   
-   Preneseni model postavite v mapo:
-   artifacts/pm10_gru_model.keras
 
 STRUKTURA PROJEKTA
 ──────────────────
@@ -57,10 +48,5 @@ ZAHTEVE
 - NumPy
 - Pandas
 - Scikit-learn
-
-KONTAKT
-───────
-Avtor: Anns2209
-E-pošta: annarijavna.stopar@student.um.si
 
 ═════════════════════════════════════════════════════════════════
